@@ -1,0 +1,25 @@
+# Protect secrets
+.env
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux system files
+*~
+.Trash-*
+.nfs*
+
+# VS Code settings (optional, uncomment if desired)
+# .vscode/
